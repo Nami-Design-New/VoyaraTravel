@@ -148,11 +148,10 @@
   max-width: 400px;
   border: 5px solid $white;
   border-radius: 10px;
-  background-color: $main;
-
-  display: flex;               /* مهم */
-  justify-content: center;     /* في المنتصف أفقياً */
-  align-items: center;         /* في المنتصف رأسياً */
+  background: linear-gradient(90deg, #7B151A 0%, #E21011 50%, #7B151A 100%);
+  display: flex;               
+  justify-content: center;    
+  align-items: center;       
 
   img {
     filter: brightness(0) invert(1);

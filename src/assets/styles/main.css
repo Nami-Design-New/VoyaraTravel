@@ -1,4 +1,3 @@
-@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @keyframes pulse {
@@ -3291,10 +3290,10 @@ body main .about-us-section .images-wrapper .side-image {
   max-width: 400px;
   border: 5px solid #fff;
   border-radius: 10px;
-  background-color: #E21011;
-  display: flex; /* مهم */
-  justify-content: center; /* في المنتصف أفقياً */
-  align-items: center; /* في المنتصف رأسياً */
+  background: linear-gradient(90deg, #7B151A 0%, #E21011 50%, #7B151A 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 body main .about-us-section .images-wrapper .side-image img {
   filter: brightness(0) invert(1);

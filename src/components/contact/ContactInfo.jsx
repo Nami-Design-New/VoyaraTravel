@@ -9,8 +9,8 @@ export default function ContactInfo() {
       icon: "fa-light fa-phone-volume",
       title: t("contact.callUs"),
       description: t("contact.callDescription"),
-      linkText: "+963964442015",
-      linkUrl: "tel:+963964442015",
+      linkText: "+963735859221",
+      linkUrl: "tel:+963735859221",
     },
     {
       icon: "fa-light fa-envelope",
@@ -23,8 +23,8 @@ export default function ContactInfo() {
       icon: "fa-light fa-phone-volume",
       title: t("contact.otherHelp"),
       description: t("contact.otherHelpDescription"),
-      linkText: "+963964442015",
-      linkUrl: "tel:+963964442015",
+      linkText: "+963735859221",
+      linkUrl: "tel:+963735859221",
     },
     {
       icon: "fa-light fa-share-alt",

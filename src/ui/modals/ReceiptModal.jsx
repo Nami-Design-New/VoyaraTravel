@@ -79,7 +79,7 @@ export default function ReceiptModal({ show, setShow }) {
               </div>
               <div className="contact">
                 <p>
-                  <i className="fa-regular fa-phone"></i> +963964442015
+                  <i className="fa-regular fa-phone"></i> +963735859221
                 </p>
                 <p>
                   <i className="fa-regular fa-envelope"></i>{" "}

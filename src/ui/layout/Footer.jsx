@@ -92,12 +92,12 @@ export default function Footer() {
 
               <li>
                 <i className="fas fa-phone-alt"></i>
-                <Link to="tel:+963964442015">+963964442015</Link>
+                <Link to="tel:+963735859221">+963735859221</Link>
               </li>
 
               <li>
                 <i className="fab fa-whatsapp"></i>
-                <Link to="https://wa.me/963964442015">+963964442015</Link>
+                <Link to="https://wa.me/963964442015">+963735859221</Link>
               </li>
             </ul>
           </div>
