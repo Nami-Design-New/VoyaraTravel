@@ -8,9 +8,9 @@ const AboutUsSection = () => {
   return (
     <>
       <HeaderSection
-      title={t('aboutUs.title')}
-      description={t('aboutUs.description')}
-    />
+        title={t('aboutUs.title')}
+        description={t('aboutUs.description')}
+      />
       <section className="about-us-section">
         <div className="container">
           <div className="row align-items-center">
@@ -22,13 +22,13 @@ const AboutUsSection = () => {
                   className="main-image img-fluid rounded"
                 />
                 <div className="side-image">
- <img
-                  src="/images/logo.svg"
-                  alt={t("aboutUs.subtitle2")}
-                  className=" img-fluid rounded"
-                />
+                  <img
+                    src="/images/logo.svg"
+                    alt={t("aboutUs.subtitle2")}
+                    className=" img-fluid rounded"
+                  />
                 </div>
-               
+
                 <div className="img-shape"></div>
                 <div className="floating-image rounded">
                   <img src="/images/about1.jpg" alt="عنصر متحرك" />
